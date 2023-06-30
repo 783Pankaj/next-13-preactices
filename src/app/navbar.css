@@ -1,0 +1,19 @@
+.login-menu{
+    display: flex;
+    gap: 50px;
+    position: absolute;
+  }
+  
+  .login-menu li{
+    margin-left: 20px;
+    list-style-type:none;
+  }.login-menu li a{
+    text-decoration: none;
+  }
+  .login-menu h4{
+    margin: 0px;
+  }
+  .heading{
+    text-align: center;
+    margin-top: 150px;
+  }
